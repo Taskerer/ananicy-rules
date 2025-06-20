@@ -24,6 +24,15 @@
 { "name": "mame", "type": "Game" }
 { "name": "sdlmame", "type": "Game" }
 
+# CEMU
+{ "name": "cemu", "type": "Game" }
+
+# PCSX2
+{ "name": "pcsx2-qt", "type": "Game" }
+
+# DuckStation
+{ "name": "duckstation-qt", "type": "Game" }
+
 # Mednafen emulator is multy-system emulator that can support Apple II/II+/IIe/Enhanced IIe, Sony PlayStation, SNES and more! https://mednafen.github.io/
 { "name": "mednafen", "type": "Game" }
 
