@@ -101,6 +101,19 @@
 # https://store.steampowered.com/app/108710/Alan_Wake/
 { "name": "AlanWake.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
+{ "name": "Amnesia.exe", "type": "Game" }
+{ "name": "Amnesia_NoSteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/214490/
+{ "name": "AI.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/
+{ "name": "APlagueTaleInnocence_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/
+{ "name": "APlagueTaleRequiem_x64.exe", "type": "Game" }
+
 ### B ###
 
 # https://store.steampowered.com/app/2379780/Balatro/
@@ -227,6 +240,10 @@
 
 # https://steamcommunity.com/app/24740/
 { "name": "burnoutparadise.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/362890/Black_Mesa/
+{ "name": "blackmesa_publish.exe", "type": "Game" }
+{ "name": "bms.exe", "type": "Game" }
 
 ### C ###
 
@@ -358,6 +375,7 @@
 
 # Detroit Become Human via Proton https://store.steampowered.com/app/1222140/Detroit_Become_Human/
 { "name": "DetroitBecomeHu", "type": "Game" }
+{ "name": "DetroitBecomeHuman.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/6910/Deus_Ex_Game_of_the_Year_Edition/
 { "name": "DeusEx.exe", "type": "Game" }
@@ -380,6 +398,13 @@
 
 # https://store.steampowered.com/app/601150/Devil_May_Cry_5/
 { "name": "DevilMayCry5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/45700/
+{ "name": "DevilMayCry4_DX10.exe", "type": "Game" }
+{ "name": "DevilMayCry4_DX9.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/329050/Devil_May_Cry_4_Special_Edition/
+{ "name": "DevilMayCry4SpecialEdition.exe", "type": "Game" }
 
 # Rules for Diablo III
 { "name": "Diablo III64.exe", "type": "Game" }
@@ -476,6 +501,9 @@
 
 # https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/
+{ "name": "nightreign.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
 { "name": "EnderLiliesSteam-Win64-Shipping.exe", "type": "Game" }
@@ -579,6 +607,12 @@
 
 # https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
 { "name": "FahrenheitSub.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/383870/Firewatch/
+{ "name": "Firewatch.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/304390/FOR_HONOR/
+{ "name": "forhonor.exe", "type": "Game" }
 
 ### G ###
 
@@ -724,6 +758,10 @@
 # https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/
+{ "name": "HellbladeGame.exe", "type": "Game" }
+{ "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
+
 ### I ###
 
 # https://store.steampowered.com/app/15320/IL2_Sturmovik_1946/
@@ -738,6 +776,10 @@
 
 # Judge Dredd https://store.steampowered.com/app/3710
 { "name": "Dredd.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/6880/Just_Cause/
+{ "name": "JustCause.exe", "type": "Game" }
+{ "name": "JCSetup.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
@@ -862,6 +904,38 @@
 { "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
 { "name": "LOTF2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/391720/
+{ "name": "Layers of Fear.exe", "type": "Game" }
+{ "name": "Layers of FearSub.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1029890/
+{ "name": "LOF2.exe", "type": "Game" }
+{ "name": "LOF2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1
+{ "name": "LifeIsStrange.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/532210/Life_is_Strange_2/
+{ "name": "LIS2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/554620/Life_is_Strange_Before_the_Storm/
+{ "name": "Life is Strange - Before the Storm.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/936790/Life_is_Strange_True_Colors/
+{ "name": "LifeIsStrange3.exe", "type": "Game" }
+{ "name": "Siren-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/
+{ "name": "LiS.exe", "type": "Game" }
+{ "name": "LiS-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1874000/Life_is_Strange_Double_Exposure/
+{ "name": "LifeIsStrangeDoubleExposure.exe", "type": "Game" }
+{ "name": "Chronos-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1265930/Life_is_Strange_Before_the_Storm_Remastered/
+{ "name": "Life is Strange - Before the Storm.exe", "type": "Game" }
+
 ### M ###
 
 # https://store.steampowered.com/app/42910/Magicka/
@@ -937,6 +1011,17 @@
 # https://store.steampowered.com/app/50130/Mafia_II_Classic/
 { "name": "mafia2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
+{ "name": "ShadowOfMordor.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1363080/Manor_Lords/
+{ "name": "ManorLords.exe", "type": "Game" }
+{ "name": "ManorLords-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1129580/Medieval_Dynasty/
+{ "name": "Medieval_Dynasty.exe", "type": "Game" }
+{ "name": "Medieval_Dynasty-Win64-Shipping.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/524220/NieRAutomata/
@@ -988,6 +1073,13 @@
 
 # https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/238320/Outlast/
+{ "name": "OLGame.exe", "type": "Game" }
+{ "name": "OLGame_R.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/414700/Outlast_2/
+{ "name": "Outlast2.exe", "type": "Game" }
 
 ### P ###
 
@@ -1185,6 +1277,12 @@
 # https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
 { "name": "ROTTR.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/40390/Risen_2_Dark_Waters/
+{ "name": "Risen2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/249230/Risen_3__Titan_Lords
+{ "name": "Risen3.exe", "type": "Game" }
+
 ### S ###
 
 # https://store.steampowered.com/app/55230/Saints_Row_The_Third/
@@ -1334,6 +1432,10 @@
 { "name": "SHProto.exe", "type": "Game" }
 { "name": "SHProto-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
+{ "name": "Hellblade2.exe", "type": "Game" }
+{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
+
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
@@ -1434,6 +1536,12 @@
 { "name": "TheCallistoProtocol.exe", "type": "Game" }
 { "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/
+{ "name": "CaptainSpirit-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/352720/The_Universim/
+{ "name": "The Universim.exe", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
@@ -1516,6 +1624,13 @@
 
 # https://store.steampowered.com/app/2996040/
 { "name": "TMNTSF.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/740130/Tales_of_Arise/
+{ "name": "Tales of Arise.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
+{ "name": "GRW.exe", "type": "Game" }
+{ "name": "rungame.exe", "type": "Game" }
 
 ### U ###
 
@@ -1604,6 +1719,15 @@
 
 # https://store.steampowered.com/app/1911610/Windblown/
 { "name": "Windblown.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/201810/
+{ "name": "WolfNewOrder_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/350080/
+{ "name": "WolfOldBlood_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/612880/
+{ "name": "NewColossus_x64vk.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
